@@ -2,4 +2,4 @@
 
 ECCV2024-5190
 
-![Framework](figure/Framework.jpg)
+![Framework](figure/New.F.4.pdf)
