@@ -7,3 +7,8 @@
 # Prerequisites
 - python 3.6
 -
+
+# Download P-COD Dataset
+
+- point supervised pcod: pth
+
