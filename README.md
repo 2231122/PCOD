@@ -2,3 +2,8 @@
 
 
 ![Framework](figure/Framework.png)
+
+
+#Prerequisites
+-python 3.6
+-
