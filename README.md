@@ -13,5 +13,5 @@
 
 # Download P-COD Dataset
 
-- point supervised pcod: pth
+- Point supervised PCOD: [google](https://drive.google.com/file/d/1ZV2Bk1nZ3GRqcVvrabybSKT8N-1XsSH8/view?usp=sharing)
 
