@@ -1,0 +1,38 @@
+{
+    "WSA1": {
+      "mask": {
+        "path": "./../CodDataset/test/WSA1/GT",
+        "prefix": "",
+        "suffix": ".png"
+      }
+    },
+    "WSA2": {
+      "mask": {
+        "path": "./../CodDataset/test/WSA2/GT",
+        "prefix": "",
+        "suffix": ".png"
+      }
+    },
+    "WSA3": {
+      "mask": {
+        "path": "./../CodDataset/test/WSA3/GT",
+        "prefix": "",
+        "suffix": ".png"
+      }
+    },
+   "WSA4": {
+      "mask": {
+        "path": "./../CodDataset/test/WSA4/GT",
+        "prefix": "",
+        "suffix": ".png"
+      }
+    },
+   "WSA5": {
+      "mask": {
+        "path": "./../CodDataset/test/WSA5/GT",
+        "prefix": "",
+        "suffix": ".png"
+      }
+    }
+}
+

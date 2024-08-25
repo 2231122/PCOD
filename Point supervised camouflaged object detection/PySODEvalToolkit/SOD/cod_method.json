@@ -1,0 +1,37 @@
+{
+    "WSA1": {
+        "WSA1": {
+            "path": "./../map/trained/WSA1",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    },
+    "WSA2": {
+        "WSA2": {
+            "path": "./../map/trained/WSA2",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    },
+    "WSA3": {
+        "WSA3": {
+            "path": "./../map/trained/WSA3",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    },
+    "WSA4": {
+        "WSA4": {
+            "path": "./../map/trained/WSA4",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    },
+    "WSA5": {
+        "WSA5": {
+            "path": "./../map/trained/WSA5",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    }
+}
