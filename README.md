@@ -16,3 +16,4 @@
 - Point supervised PCOD: [google](https://drive.google.com/file/d/17oa6-IU2Dr9Q1KKQ74UoL0hoFd5F7bOd/view?usp=sharing)
 
 # Experimental Results
+![result](figure/Result.png)
