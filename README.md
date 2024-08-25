@@ -20,7 +20,7 @@
 
 # Train
 - Generate square clusters (d*d) by point label, [d*d cluster](https://drive.google.com/file/d/1L6l5ijona7J5eX5tX8aGSjwCY1oBdV7L/view?usp=drive_link) , After that training generates [Pred_Map](https://drive.google.com/file/d/1RjgNvc83wnTKAaVcRFg7gxVY85771XGg/view?usp=drive_link) ,then , run Point2gt.py to generate the [final supervisor labels](https://drive.google.com/file/d/1_la4aF9VMv_VG3pQIhc1PXNJa8dxIn26/view?usp=drive_link) .
-- Download training dataset and testing dataset . Put them in the right path, including './CodDataset/train/Imgs' and '/CodDataset/test/CAMO/(GT+Imgs)'
+- Download training dataset and testing dataset . Put them in the right path, including './CodDataset/train/Imgs', '/CodDataset/test/CAMO/(GT+Imgs)', '/CodDataset/test/COD10K/(GT+Imgs)'.... and '/CodDataset/test/HCK4/(GT+Imgs)'
 - Using the labels generated above for training ( "1" stands for foregrounds, "2" for backgrounds, and "0" for unlabeled regions. (The image is viewed as black because its range is 0-255)) . Put it in './CodDataset/train/Label'
 - Run python train.py.
 
